@@ -28,6 +28,5 @@ Results:
 Cleaned dataset: cleaned_ev_data.csv.
 Visualizations: Distribution of range.
 Jupyter notebook: Week1_Data_Preparation.ipynb
-Correlation heatmap of features
 
 Jupyter notebook: Week1_Data_Pre
