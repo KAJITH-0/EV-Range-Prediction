@@ -9,7 +9,7 @@ To build a regression model capable of predicting the driving range of EVs using
 ## Tools and Technologies:
 
 - **Programming Language:** Python
-- **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn
+- **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn[pip install pandas numpy matplotlib seaborn scikit-learn]
 - **Environment:** Jupyter Notebook
 
 ---
