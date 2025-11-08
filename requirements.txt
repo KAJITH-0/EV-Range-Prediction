@@ -2,3 +2,4 @@ Pandas
 Matplotlib
 Numpy
 Seaborn
+sklearn
