@@ -1,5 +1,6 @@
-Pandas
-Matplotlib
-Numpy
-Seaborn
-sklearn
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+google-generativeai
